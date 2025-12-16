@@ -44,7 +44,7 @@ Il croise les données produits (**OpenFoodFacts**) avec des données géographi
 
 ## 🛠️ Utilisation
 
-### 1. Lancer le Pipeline ETL
+### 1. Lancer le Pipeline 
 Le script principal permet de choisir la catégorie et le volume de données.
 
 **Mode Standard (Téléchargement complet) :**
@@ -84,4 +84,3 @@ Un rapport est généré automatiquement dans `data/reports/` après chaque exé
 
 ## Auteur
 Ikhlas LAGHMICH
-```
