@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+.venv/
+venv/
+.pytest_cache/
+
+.vscode/
+.idea/
+
+.env
+
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# --- Données & Logs  ---
+data/raw/*
+data/processed/*
+data/reports/*
+logs/*
+*.log
+
+# --- Fichiers système ---
+.DS_Store
+Thumbs.db
