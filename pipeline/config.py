@@ -38,7 +38,7 @@ ADRESSE_CONFIG = APIConfig(
     name="API Adresse",
     base_url="https://api-adresse.data.gouv.fr",
     timeout=10,
-    rate_limit=0.1,  # Très rapide, peu de limite
+    rate_limit=0.1, 
 )
 
 # === Paramètres d'acquisition ===
